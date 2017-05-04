@@ -1,0 +1,11 @@
+<html>
+<script>
+function myfunction()
+{
+alert(date is not correct)	
+}
+</script>
+<body>
+<button onclick="myfunction()">click me</button>
+</body>
+</html>
